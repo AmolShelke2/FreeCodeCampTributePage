@@ -1,3 +1,4 @@
+
 # FreeCodeCampTributePage
 
 i've making everyday a simple project with html css and javascript and i'm practicing my skills everyday
@@ -19,3 +20,7 @@ I'm a Student and coder who love to code front end❤️
 ## Support
 
 how to reach me, email shelkeamol897@gmail.com, twitter Amol_shelke09
+
+
+## Screenshot
+![192 168 178 73_5501_tut16 html (2)](https://user-images.githubusercontent.com/95171638/145666956-50ae05c8-a4f4-42bb-bb66-91e782d926b4.png)
