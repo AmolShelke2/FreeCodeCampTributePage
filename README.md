@@ -10,8 +10,7 @@ Hope you Love it! This is the challenge Of Freecodecamps Responsive web Designs 
 # language
 
 -HTML  
--CSS  
--Javascript
+-CSS 
 
 ## 🚀 About Me
 
